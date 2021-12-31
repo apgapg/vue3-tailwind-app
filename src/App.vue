@@ -18,7 +18,8 @@ yarn global add @vue/cli</code></pre>
       </div>
       <div class="pt-8">
         <div>3. Add Tailwindcss (npm:@tailwindcss/postcss7-compat)</div>
-        <pre class="bg-gray-800 w-min text-start p-8 mt-4 rounded shadow-xl"><code class="text-start">vue add tailwindcss</code></pre>
+        <pre class="bg-gray-800 w-min text-start p-8 mt-4 rounded shadow-xl"><code class="text-start">npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+npx tailwindcss init</code></pre>
       </div>
     </div>
     <div class="flex justify-around">
